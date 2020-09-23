@@ -99,7 +99,7 @@ The schedule is subject to change.
 - Dates and times to be announced
 
 
-**Day 1 (M)**
+**Day 1 (Oct 20)**
 - 9:00 - 9:20
   [Welcome and practical information](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
   (TBA)
@@ -108,19 +108,19 @@ The schedule is subject to change.
   (TBA)
 
 
-**Day 2 (T)**
+**Day 2 (Oct 21)**
 - 9:00 - 12:00
   [Introduction to version control - part 2/2](https://coderefinery.github.io/git-intro/) ("Branching and merging" to "Inspecting history")
   (TBA)
 
 
-**Day 3 (W)**
+**Day 3 (Oct 22)**
 - 9:00 - 12:00
   [Collaborative distributed version control](https://coderefinery.github.io/git-collaborative/)
   (TBA)
 
 
-**Day 4 (T)**
+**Day 4 (Oct 27)**
 - 9:00 - 9:15
   [Mini-intro](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
   (TBA)
@@ -132,7 +132,7 @@ The schedule is subject to change.
   (TBA)
 
 
-**Day 5 (W)**
+**Day 5 (Oct 28)**
 - 9:00 - 10:30
   [Documentation](https://coderefinery.github.io/documentation/)
   (TBA)
@@ -141,7 +141,7 @@ The schedule is subject to change.
   (TBA)
 
 
-**Day 6 (Th)**
+**Day 6 (Oct 29)**
 - 9:00 - 10:30
   [Automated testing](https://coderefinery.github.io/testing/)
   (TBA)
