@@ -1,41 +1,55 @@
 
 
-### DATES, 9:00-12:00 CEST
+### Registration
 
 <a class="btn btn-info disabled" href="#" data-mode="1" target="_blank">Registration will open soon</a>
 
-**News:**
-
-* **News item 1**
-
-
-Because of our Nordic funding, priority is for Nordic participants.
-Everyone gets added to a waitlist initially, and we
-approve people as we get space.  Check
-back for updates.
+Because of our Nordic funding, priority is for Nordic participants. A number of
+spaces are reserved for participants from TU Delft. Everyone gets added to a
+waiting list initially, and we approve people as we get space. Check back for
+updates.
 
 
 ### Live streaming
 
-Yes, we are.  Streams available at <https://twitch.tv/coderefinery>, See [right bottom →](#streaming-info)
+Yes, we are. Streams available at <https://twitch.tv/coderefinery>,
+see [bottom right on this page](#streaming-info).
+Privacy is our first concern and *only* the instructor's video will be
+published, and *breakout rooms for exercises are completely private*.
 
 
 ### Course goals and format
 
-In this course, you will become familiar with tools and best practices
-for version control in modern research software development. The main
-focus is on using Git for efficiently writing and maintaining research
-software.  We don't teach programming, but we teach the tools you need
-to use programming well.
+In this course, you will become familiar with tools and best practices for
+**version control and reproducibility** in modern research software development.
+The main focus is on using Git for efficiently writing and maintaining research
+software.
+
+**We will not teach programming**, but we teach the tools you need to use programming
+well.  We assume that you are familiar with the programming language that you
+use in your work and research. We try to keep the course as
+language-independent as possible but we will show some basic code examples in
+Python.
 
 This is an informal and interactive online event with type-along type
 of presentations, live coding, and demos. Short tutorials alternate
 with practical exercises.
 
-We might live stream or record (part of ) the workshop to reach an
-even wider audience.  In this case, privacy is our first concern and
-*only* the instructor's video will be published, and *breakout rooms
-for exercises are completely private*.  More details will come later.
+
+### Prerequisites
+
+- You should be able to navigate the file tree in a terminal session and edit
+  text files in the terminal.
+  [This Linux shell crash course](https://scicomp.aalto.fi/scicomp/shell.html)
+  ([video](https://youtu.be/56p6xX0aToI))
+  contains the essentials.
+- Basics in one or more programming languages.
+- You need to install some software (see below).
+- It is useful if you have a basic idea of how Git works. We will start from
+  the basics anyway, but please go through
+  [this Git-refresher material](https://coderefinery.github.io/git-refresher/)
+  for a basic overview and important configuration steps.
+- Make sure that Git is configured, and verify the configuration (see below).
 
 
 ### Software requirements
@@ -49,7 +63,7 @@ behind.
 Note that, e.g., a working Python executable on your laptop is not sufficient -
 a version greater than 3.4 is strongly recommended and a number of extra
 packages need to be installed as detailed on the Python installation
-page.  **You also need to check your git configuration**
+page. **You also need to check your Git configuration**
 ([video: how to configure Git](https://www.youtube.com/watch?v=WdDTp8NeHBs&list=PLpLblYHCzJACyKCfHnPwRruOxllNoHsEg)).
 **If you have an institutional laptop with limited rights, start in advance
 and/or ask for help to translate these instructions to work on your system.**
@@ -57,14 +71,13 @@ and/or ask for help to translate these instructions to work on your system.**
 - [Bash](https://coderefinery.github.io/installation/bash/)
 - [Editor](https://coderefinery.github.io/installation/editors/)
 - [Git](https://coderefinery.github.io/installation/git/), including
-  some **configuration**
+  configuring it ([text instructions](https://coderefinery.github.io/installation/git/#configuring-git),
+  [video](https://www.youtube.com/watch?v=WdDTp8NeHBs&t=258s)).
 - [(optional) Visual diff tools](https://coderefinery.github.io/installation/difftools/)
 - [Python](https://coderefinery.github.io/installation/python/)
 - [Jupyter and JupyterLab](https://coderefinery.github.io/installation/jupyter)
 - [Snakemake](https://coderefinery.github.io/installation/snakemake)
-- [Zoom](https://coderefinery.github.io/installation/zoom/) (note: a
-  new version released on 27.april will be required for the second
-  week!)
+- [Zoom](https://coderefinery.github.io/installation/zoom/)
 - University computer specific instructions:
   - [Aalto University](https://scicomp.aalto.fi/news/coderefinery/)
 
@@ -74,12 +87,13 @@ advance, or b) verify with your team's helper before the workshop.**
 
 ### Schedule
 
-The schedule includes frequent breaks.  All times are in Central
-European Summer Time.  [Convert 9:00 CEST to your time zone](https://arewemeetingyet.com/Stockholm/2020-05-25/09:00/CodeRefinery%20online#eyJ1cmwiOiJodHRwczovL2NvZGVyZWZpbmVyeS5naXRodWIuaW8vMjAyMC0wNS0yNS1vbmxpbmUvIn0=).
+All times are in **Europe/Stockholm time**
+([convert the beginning of the workshop to your time zone](https://arewemeetingyet.com/Stockholm/2020-10-20/09:00/CodeRefinery)).
 
+The schedule includes frequent breaks.
 The schedule is subject to change.
 
-**Pre-workshop installation help** and verification times (see above)
+**Pre-workshop installation help** and verification times
 - Join anytime during this (preferably not everyone at the very start
   and end)
 - Dates and times to be announced
