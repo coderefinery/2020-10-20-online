@@ -54,6 +54,7 @@ be a helper.
 - Max R. Eckardt
 - Mateusz Kuzak
 - Bjørn Lindi
+- Sabry Razick
 - Johan Wehner
 - Thor Wikfeldt
 
