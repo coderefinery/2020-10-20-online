@@ -126,39 +126,10 @@ and would like to be listed here, let us know.
 
 ## Streaming info
 
-We will live stream the course so that others, who did not have the possibility to
-register, will be able to follow along.
+We will live stream the course so that those who didn't have a chance
+to register can follow along too.  See [the streaming
+info to take full advantage](https://coderefinery.github.io/manuals/how-to-attend-online/#live-streaming).
 
-We will stream at <https://www.twitch.tv/coderefinery>.  More information on
-how to get updates and how you can interact during the workshop, will be
-published here closer to the event.
-
-Advice on following the stream:
-
-* **Take this seriously.**  Don't do multiple meetings, reserve the entire
-  timeslots on your calendar, attend every session, do the preparation.
-
-* **Do the installation and configuration in advance, and double check
-  it.**  In real workshops, problems here slow us down a lot, and if
-  you don't prepare, you will immediately fall behind.  We might have
-  a pre-workshop stream to go over installation.
-
-* **Form a team anyway.**  You learn more from your colleagues than
-  you do from us, so take advantage.  Get one "helper" for your team, start
-  your own video call, watch the stream together, and during the
-  exercise times, work together.  We will be clear about our
-  timing, so that you can coordinate your team.  (Of course, you can
-  always follow individually)
-
-* You can interact on the **livestream chat**, but we don't promise to
-  be able to watch it. We are considering how to involve stream watchers
-  better in the main collaborative discussion document.
-
-* **Announcements and updates**:
-  Follow [@coderefine](https://twitter.com/coderefine) on Twitter for news.
-
-* **Come to an in-person workshop sometime.**  The stream probably
-  can't replace the experience and individual help you get in person.
-  Sign up on the [notify me
-  list](https://coderefinery.org/workshops/upcoming/#notify-me) to
-  hear about what comes next.
+We will stream at <https://www.twitch.tv/coderefinery>.  Check/follow
+[@coderefine](https://twitter.com/coderefine) on Twitter or this
+page for updates.
