@@ -92,8 +92,10 @@ advance, or b) verify with your team's helper before the workshop.**
 
 ### Schedule
 
-All times are in **Europe/Stockholm time**
-([convert the beginning of the workshop to your time zone](https://arewemeetingyet.com/Stockholm/2020-10-20/09:00/CodeRefinery)).
+All times are in **Europe/Stockholm time** (note summer time ends
+between the weeks):
+[First week time converter](https://arewemeetingyet.com/Stockholm/2020-10-20/09:00/CodeRefinery)
+[Second week time converter](https://arewemeetingyet.com/Stockholm/2020-10-27/09:00/CodeRefinery)
 
 The schedule includes frequent breaks.
 The schedule is subject to change.
