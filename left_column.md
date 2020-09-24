@@ -10,9 +10,14 @@ waiting list initially, and we approve people as we get space. Check back for
 updates.
 
 
-### Live streaming
+### Zoom?  Live streaming?  Team?
 
-Yes, we are. Streams available at <https://twitch.tv/coderefinery>,
+If you register, you can attend via **Zoom**.  We recommend you get
+some friends and register as a **team** - you will be in a breakout
+room together for the whole workshop, making it much more fun and
+educational.
+
+You can also attend via **live stream** on Twitch: <https://twitch.tv/coderefinery>,
 see [bottom right on this page](#streaming-info).
 Privacy is our first concern and *only* the instructor's video will be
 published, and *breakout rooms for exercises are completely private*.
