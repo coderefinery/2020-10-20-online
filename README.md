@@ -38,9 +38,63 @@ Overlapping roles are allowed when you think it's reasonable!
          <th>Experts helpers</th>
 </tr>
 <tr>
-  <th>1.jan (W)</th>
-         <td>intro: name<br>
-		     topic1: name<br>
+  <th>20.oct (T)</th>
+         <td>
+		     intro: TBA<br>
+		     git-intro: TBA<br>
+		     git-intro: TBA<br>
+	     </td>
+         <td></td><!--host-->
+         <td></td><!--hackmd-->
+         <td></td><!--expert helpers-->
+</tr>
+<tr>
+  <th>21.oct (W)</th>
+         <td>
+		     git-intro: TBA<br>
+		     git-intro: TBA<br>
+	     </td>
+         <td></td><!--host-->
+         <td></td><!--hackmd-->
+         <td></td><!--expert helpers-->
+</tr>
+<tr>
+  <th>22.oct (Th)</th>
+         <td>
+		     git-collab: TBA<br>
+		     git-colalb: TBA<br>
+	     </td>
+         <td></td><!--host-->
+         <td></td><!--hackmd-->
+         <td></td><!--expert helpers-->
+</tr>
+<tr>
+  <th>27.oct (T)</th>
+         <td>
+		     intro: TBA<br>
+		     rep research: TBA<br>
+		     social coding: TBA<br>
+	     </td>
+         <td></td><!--host-->
+         <td></td><!--hackmd-->
+         <td></td><!--expert helpers-->
+</tr>
+<tr>
+  <th>28.oct (W)</th>
+         <td>
+		     documentation: TBA<br>
+		     jupyter: TBA<br>
+	     </td>
+         <td></td><!--host-->
+         <td></td><!--hackmd-->
+         <td></td><!--expert helpers-->
+</tr>
+<tr>
+  <th>29.oct (Th)</th>
+         <td>
+		     testing: TBA<br>
+		     modular code: TBA<br>
+		     outro: TBA<br>
 	     </td>
          <td></td><!--host-->
          <td></td><!--hackmd-->
@@ -48,8 +102,9 @@ Overlapping roles are allowed when you think it's reasonable!
 </tr>
 </table>
 
-Helpers: name, name.  (note: for privacy, helpers do not need to be
-tracked here)
+Expert helpers:
+- TBA
+- TBA
 
 
 
