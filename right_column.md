@@ -16,18 +16,17 @@ something new about a subject by teaching it.
 
 ### How to join
 
-We are normally limited by number of helpers, thus:
+We are normally limited by number of helpers, thus *why not allow
+groups to bring their own helper?*:
 
-- We are introducing the concept of **teams** to "bring your own breakout
-  rooms" to accept as many people as possible.
-- Anyone may register as a learner, we will try to take as many as we can.
-- Or you can register as a helper.  If you are somewhat comfortable
+- We have the concept of **teams** that **bring their own breakout room**.
+- Anyone may **register as a learner**, we will try to take as many as we can.
+- Or you can **register as a helper**.  If you are somewhat comfortable
   with these tools, you can be a helper! (see below)
-- Register as a team, one helper and 4-6 learners.
+- **Register as a team**, one helper and 4-6 learners.
   - We will accept all complete teams.
   - Everyone on the team must register separately.
-  - Decide some team name, and when registering, everyone enter this
-    same name so that we can link you together.
+  - Decide some team name, and give this name when registering so that we can link you together.
   - During the exercise sessions in breakout rooms, the helper has
     primary responsibility for their group's hands-on exercises.
     Still, instructors drop by to check and help
