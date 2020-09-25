@@ -84,7 +84,7 @@ and/or ask for help to translate these instructions to work on your system.**
 - [Snakemake](https://coderefinery.github.io/installation/snakemake)
 - [Zoom](https://coderefinery.github.io/installation/zoom/)
 - University computer specific instructions:
-  - [Aalto University](https://scicomp.aalto.fi/news/coderefinery/)
+  - [Aalto University](https://scicomp.aalto.fi/aalto/coderefinery-setup/)
 
 **You should either a) drop by one of our verification sessions in
 advance, or b) verify with your team's helper before the workshop.**
