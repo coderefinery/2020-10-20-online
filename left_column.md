@@ -45,7 +45,7 @@ with practical exercises.
 
 - You should be able to navigate the file tree in a terminal session and edit
   text files in the terminal.
-  [This Linux shell crash course](https://scicomp.aalto.fi/scicomp/shell.html)
+  [This Linux shell crash course](https://scicomp.aalto.fi/scicomp/shell/)
   ([video](https://youtu.be/56p6xX0aToI))
   contains the essentials.
 - Basics in one or more programming languages.
@@ -84,7 +84,7 @@ and/or ask for help to translate these instructions to work on your system.**
 - [Snakemake](https://coderefinery.github.io/installation/snakemake)
 - [Zoom](https://coderefinery.github.io/installation/zoom/)
 - University computer specific instructions:
-  - [Aalto University](https://scicomp.aalto.fi/news/coderefinery/)
+  - [Aalto University](https://scicomp.aalto.fi/aalto/coderefinery-setup/)
 
 **You should either a) drop by one of our verification sessions in
 advance, or b) verify with your team's helper before the workshop.**
