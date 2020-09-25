@@ -45,7 +45,7 @@ with practical exercises.
 
 - You should be able to navigate the file tree in a terminal session and edit
   text files in the terminal.
-  [This Linux shell crash course](https://scicomp.aalto.fi/scicomp/shell.html)
+  [This Linux shell crash course](https://scicomp.aalto.fi/scicomp/shell/)
   ([video](https://youtu.be/56p6xX0aToI))
   contains the essentials.
 - Basics in one or more programming languages.
