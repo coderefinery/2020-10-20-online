@@ -51,7 +51,7 @@ be a helper.
 - Radovan Bast
 - Richard Darst
 - Max R. Eckardt
-- Mateusz Kuzak
+- Johan Hidding
 - Bjørn Lindi
 - Sabry Razick
 - Johan Wehner
