@@ -54,7 +54,7 @@ be a helper.
 - Johan Hidding
 - Bjørn Lindi
 - Sabry Razick
-- Johan Wehner
+- Jens Wehner
 - Thor Wikfeldt
 
 
