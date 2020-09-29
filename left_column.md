@@ -142,7 +142,7 @@ The schedule is subject to change.
 **Day 5 (Oct 28)**
 - 9:00 - 10:30
   [Documentation](https://coderefinery.github.io/documentation/)
-  (TBA)
+  (Thor)
 - 10:30 - 12:00
   [Jupyter](https://coderefinery.github.io/jupyter/)
   (TBA)
