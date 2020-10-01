@@ -2,7 +2,7 @@
 
 ### Registration
 
-<a class="btn btn-info disabled" href="#" data-mode="1" target="_blank">Registration will open soon</a>
+<a class="btn btn-success" href="https://indico.neic.no/event/151/" data-mode="1" target="_blank">Register here</a>
 
 Because of our Nordic funding, priority is for Nordic participants. A number of
 spaces are reserved for participants from TU Delft. Everyone gets added to a
