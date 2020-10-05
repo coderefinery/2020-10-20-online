@@ -38,6 +38,24 @@ Overlapping roles are allowed when you think it's reasonable!
          <th>Experts helpers</th>
 </tr>
 <tr>
+  <th>15.oct (Th) 13-14 CEST</th>
+         <td>
+		     Installation help
+	     </td>
+         <td></td><!--host-->
+         <td></td><!--hackmd-->
+         <td>Enrico</td><!--expert helpers-->
+</tr>
+<tr>
+  <th>16.oct (F) 13-14 CEST</th>
+         <td>
+		     Installation help
+	     </td>
+         <td></td><!--host-->
+         <td></td><!--hackmd-->
+         <td>Enrico</td><!--expert helpers-->
+</tr>
+<tr>
   <th>20.oct (T)</th>
          <td>
 		     intro: TBA<br>
@@ -46,7 +64,7 @@ Overlapping roles are allowed when you think it's reasonable!
 	     </td>
          <td></td><!--host-->
          <td></td><!--hackmd-->
-         <td></td><!--expert helpers-->
+         <td>Enrico</td><!--expert helpers-->
 </tr>
 <tr>
   <th>21.oct (W)</th>
@@ -56,7 +74,7 @@ Overlapping roles are allowed when you think it's reasonable!
 	     </td>
          <td></td><!--host-->
          <td></td><!--hackmd-->
-         <td></td><!--expert helpers-->
+         <td>Enrico</td><!--expert helpers-->
 </tr>
 <tr>
   <th>22.oct (Th)</th>
@@ -66,7 +84,7 @@ Overlapping roles are allowed when you think it's reasonable!
 	     </td>
          <td></td><!--host-->
          <td></td><!--hackmd-->
-         <td></td><!--expert helpers-->
+         <td>Enrico</td><!--expert helpers-->
 </tr>
 <tr>
   <th>27.oct (T)</th>
@@ -87,7 +105,7 @@ Overlapping roles are allowed when you think it's reasonable!
 	     </td>
          <td></td><!--host-->
          <td></td><!--hackmd-->
-         <td></td><!--expert helpers-->
+         <td>Enrico (maybe)</td><!--expert helpers-->
 </tr>
 <tr>
   <th>29.oct (Th)</th>
@@ -98,11 +116,12 @@ Overlapping roles are allowed when you think it's reasonable!
 	     </td>
          <td></td><!--host-->
          <td></td><!--hackmd-->
-         <td></td><!--expert helpers-->
+         <td>Enrico (maybe)</td><!--expert helpers-->
 </tr>
 </table>
 
 Expert helpers:
+- Enrico Glerean
 - TBA
 - TBA
 
