@@ -112,7 +112,7 @@ The schedule is subject to change.
   (TBA)
 - 9:20 - 12:00
   [Introduction to version control - part 1/2](https://coderefinery.github.io/git-intro/) ("Motivation" to "Undoing")
-  (TBA)
+  (Sabry)
 
 
 **Day 2 (Oct 21)**
@@ -136,7 +136,7 @@ The schedule is subject to change.
   (Johan)
 - 11:00 - 12:00
   [Social coding and open software](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/social-coding/master/talk.md)
-  (TBA)
+  (Sabry)
 
 
 **Day 5 (Oct 28)**
