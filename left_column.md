@@ -118,7 +118,7 @@ The schedule is subject to change.
 **Day 2 (Oct 21)**
 - 9:00 - 12:00
   [Introduction to version control - part 2/2](https://coderefinery.github.io/git-intro/) ("Branching and merging" to "Inspecting history")
-  (TBA)
+  (Thor)
 
 
 **Day 3 (Oct 22)**
@@ -142,7 +142,7 @@ The schedule is subject to change.
 **Day 5 (Oct 28)**
 - 9:00 - 10:30
   [Documentation](https://coderefinery.github.io/documentation/)
-  (Thor)
+  (TBA)
 - 10:30 - 12:00
   [Jupyter](https://coderefinery.github.io/jupyter/)
   (TBA)
