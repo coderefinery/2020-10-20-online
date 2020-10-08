@@ -109,7 +109,9 @@ The schedule is subject to change.
 - Monday, Oct 19, 15:00 - 16:00
 - During this time, we will talk about the role of the helper during the workshop and answer any open questions
 - You can also read through the material [here](https://coderefinery.github.io/manuals/breakout-rooms-helping/)
-- If you have any doubts, questions, ideas or anything you want to tell us apart from these sessions, please refer to xxx.
+- If you have any doubts, questions, ideas or anything you want to tell us apart from these sessions, please write your question [here*](https://hackmd.io/8bLEW1nySgqRglZvbwU_zw) and we will try to answer asap or you can send an email to support@coderefinery.org.
+
+* the HackMD is a collaborative document (written in markdown), for now the important part to know is that you can add questions there by finding the pen symbol in the top toolbar and write your question under the ##Helper questions header.
 
 
 **Pre-workshop installation help** and verification times
