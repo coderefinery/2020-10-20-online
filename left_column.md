@@ -102,10 +102,21 @@ between the weeks):
 The schedule includes frequent breaks.
 The schedule is subject to change.
 
+
+**Helper introduction**
+- If you registered as a helper or helper in a team, and not sure what its all about, please join **one** of the following two timeslots:
+- Friday, Oct 16, 09:00 - 10:00
+- Monday, Oct 19, 15:00 - 16:00
+- During this time, we will talk about the role of the helper during the workshop and answer any open questions
+- You can also read through the material [here](https://coderefinery.github.io/manuals/breakout-rooms-helping/)
+- If you have any doubts, questions, ideas or anything you want to tell us apart from these sessions, please refer to xxx.
+
+
 **Pre-workshop installation help** and verification times
 - Join anytime during this (preferably not everyone at the very start
   and end)
-- Dates and times to be announced
+- Friday, Oct 16, 10:00 - 11:00
+- Monday, Oct 19, 16:00 - 17:00
 
 
 **Day 1 (Oct 20)**
