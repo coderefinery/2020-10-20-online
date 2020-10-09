@@ -96,8 +96,8 @@ advance, or b) verify with your team's helper before the workshop.**
 
 All times are in **Europe/Stockholm time** (note summer time ends
 between the weeks):
-[First week time converter](https://arewemeetingyet.com/Stockholm/2020-10-20/09:00/CodeRefinery)
-[Second week time converter](https://arewemeetingyet.com/Stockholm/2020-10-27/09:00/CodeRefinery)
+([First week time converter](https://arewemeetingyet.com/Stockholm/2020-10-20/09:00/CodeRefinery))
+([Second week time converter](https://arewemeetingyet.com/Stockholm/2020-10-27/09:00/CodeRefinery))
 
 The schedule includes frequent breaks.
 The schedule is subject to change.
@@ -119,8 +119,8 @@ If you registered as a helper or helper in a team, and not sure what its all abo
 **Pre-workshop installation help** and verification times
 - Join anytime during this (preferably not everyone at the very start
   and end)
-- Friday, Oct 16, 10:00 - 11:00 (time converter)[https://arewemeetingyet.com/Stockholm/2020-10-16/09:00/CodeRefinery%20install%20time]
-- Monday, Oct 19, 16:00 - 17:00 (time converter)[https://arewemeetingyet.com/Stockholm/2020-10-19/16:00/CodeRefinery%20install%20time]
+- Friday, Oct 16, 10:00 - 11:00 ((time converter)[https://arewemeetingyet.com/Stockholm/2020-10-16/09:00/CodeRefinery%20install%20time])
+- Monday, Oct 19, 16:00 - 17:00 ((time converter)[https://arewemeetingyet.com/Stockholm/2020-10-19/16:00/CodeRefinery%20install%20time])
 
 
 **Day 1 (Oct 20)**
