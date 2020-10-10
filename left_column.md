@@ -96,31 +96,17 @@ advance, or b) verify with your team's helper before the workshop.**
 
 All times are in **Europe/Stockholm time** (note summer time ends
 between the weeks):
-[First week time converter](https://arewemeetingyet.com/Stockholm/2020-10-20/09:00/CodeRefinery)
-[Second week time converter](https://arewemeetingyet.com/Stockholm/2020-10-27/09:00/CodeRefinery)
+([First week time converter](https://arewemeetingyet.com/Stockholm/2020-10-20/09:00/CodeRefinery))
+([Second week time converter](https://arewemeetingyet.com/Stockholm/2020-10-27/09:00/CodeRefinery))
 
 The schedule includes frequent breaks.
 The schedule is subject to change.
 
-
-**Helper introduction**
-
-If you registered as a helper or helper in a team, and not sure what its all about, please join **one** of the following two timeslots:
-- Friday, Oct 16, 09:00 - 10:00
-- Monday, Oct 19, 15:00 - 16:00
-- During this time, we will talk about the role of the helper during the workshop and answer any open questions
-- You can also read through the material [here](https://coderefinery.github.io/manuals/breakout-rooms-helping/)
-- If you have any doubts, questions, ideas or anything you want to tell us apart from these sessions, please write your question [here*](https://hackmd.io/8bLEW1nySgqRglZvbwU_zw) and we will try to answer asap or you can send an email to support@coderefinery.org.
-
-\* the HackMD is a collaborative document (written in markdown), for now the important part to know is that you can add questions there by finding the pen symbol in the top toolbar and write your question under the ##Helper questions header.
-
-- If you want to help or learn how to help with installation issues, please also participate in the installation help sessions below.
-
 **Pre-workshop installation help** and verification times
 - Join anytime during this (preferably not everyone at the very start
   and end)
-- Friday, Oct 16, 10:00 - 11:00
-- Monday, Oct 19, 16:00 - 17:00
+- Friday, Oct 16, 10:00 - 11:00 ((time converter)[https://arewemeetingyet.com/Stockholm/2020-10-16/09:00/CodeRefinery%20install%20time])
+- Monday, Oct 19, 16:00 - 17:00 ((time converter)[https://arewemeetingyet.com/Stockholm/2020-10-19/16:00/CodeRefinery%20install%20time])
 
 
 **Day 1 (Oct 20)**
