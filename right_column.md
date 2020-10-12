@@ -74,9 +74,10 @@ and would like to be listed here, let us know.
 
 Helper introduction:
 
-- If you registered as a helper, please join **one** of the following two timeslots:
-  - Friday, Oct 16, 09:00 - 10:00 (Stockholm time)
-  - Monday, Oct 19, 15:00 - 16:00
+- If you registered as a helper, please join **one** of the following
+  two timeslots (Stockholm time):
+  - Friday, Oct 16, 09:00 - 10:00 ([time converter](https://arewemeetingyet.com/Stockholm/2020-10-16/09:00/CodeRefinery%20helper%20training#eyJ1cmwiOiJodHRwczovL2NvZGVyZWZpbmVyeS5naXRodWIuaW8vMjAyMC0xMC0yMC1vbmxpbmUvIn0=))
+  - Monday, Oct 19, 15:00 - 16:00 ([time converter](https://arewemeetingyet.com/Stockholm/2020-10-19/15:00/CodeRefinery%20helper%20training#eyJ1cmwiOiJodHRwczovL2NvZGVyZWZpbmVyeS5naXRodWIuaW8vMjAyMC0xMC0yMC1vbmxpbmUvIn0=))
 - During this time, we will talk about the role of the helper during the workshop and answer any open questions
 - You can also read through the material [here](https://coderefinery.github.io/manuals/helper-intro/)
 - If you have any doubts, questions, ideas or anything you want to tell us apart from these sessions, please...
