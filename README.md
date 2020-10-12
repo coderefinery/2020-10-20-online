@@ -62,8 +62,8 @@ Overlapping roles are allowed when you think it's reasonable!
 		     git-intro: TBA<br>
 		     git-intro: TBA<br>
 	     </td>
-         <td></td><!--host-->
-         <td></td><!--hackmd-->
+         <td>Naoe</td><!--host-->
+         <td>Richard</td><!--hackmd-->
          <td>Enrico</td><!--expert helpers-->
 </tr>
 <tr>
@@ -73,7 +73,7 @@ Overlapping roles are allowed when you think it's reasonable!
 		     git-intro: TBA<br>
 	     </td>
          <td></td><!--host-->
-         <td></td><!--hackmd-->
+         <td>Richard</td><!--hackmd-->
          <td>Enrico</td><!--expert helpers-->
 </tr>
 <tr>
@@ -82,8 +82,8 @@ Overlapping roles are allowed when you think it's reasonable!
 		     git-collab: TBA<br>
 		     git-colalb: TBA<br>
 	     </td>
-         <td></td><!--host-->
-         <td></td><!--hackmd-->
+         <td>Naoe</td><!--host-->
+         <td>Richard</td><!--hackmd-->
          <td>Enrico</td><!--expert helpers-->
 </tr>
 <tr>
@@ -94,7 +94,7 @@ Overlapping roles are allowed when you think it's reasonable!
 		     social coding: TBA<br>
 	     </td>
          <td></td><!--host-->
-         <td></td><!--hackmd-->
+         <td>Richard</td><!--hackmd-->
          <td></td><!--expert helpers-->
 </tr>
 <tr>
@@ -104,7 +104,7 @@ Overlapping roles are allowed when you think it's reasonable!
 		     jupyter: TBA<br>
 	     </td>
          <td></td><!--host-->
-         <td></td><!--hackmd-->
+         <td>Richard</td><!--hackmd-->
          <td>Enrico (maybe)</td><!--expert helpers-->
 </tr>
 <tr>
@@ -115,7 +115,7 @@ Overlapping roles are allowed when you think it's reasonable!
 		     outro: TBA<br>
 	     </td>
          <td></td><!--host-->
-         <td></td><!--hackmd-->
+         <td>Richard</td><!--hackmd-->
          <td>Enrico (maybe)</td><!--expert helpers-->
 </tr>
 </table>
