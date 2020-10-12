@@ -105,8 +105,8 @@ The schedule is subject to change.
 **Pre-workshop installation help** and verification times
 - Join anytime during this (preferably not everyone at the very start
   and end)
-- Friday, Oct 16, 10:00 - 11:00 ((time converter)[https://arewemeetingyet.com/Stockholm/2020-10-16/09:00/CodeRefinery%20install%20time])
-- Monday, Oct 19, 16:00 - 17:00 ((time converter)[https://arewemeetingyet.com/Stockholm/2020-10-19/16:00/CodeRefinery%20install%20time])
+- Friday, Oct 16, 10:00 - 11:00 ([time converter](https://arewemeetingyet.com/Stockholm/2020-10-16/10:00/CodeRefinery%20install%20time))
+- Monday, Oct 19, 16:00 - 17:00 ([time converter](https://arewemeetingyet.com/Stockholm/2020-10-19/16:00/CodeRefinery%20install%20time))
 
 
 **Day 1 (Oct 20)**
