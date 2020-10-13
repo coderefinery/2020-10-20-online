@@ -112,7 +112,7 @@ The schedule is subject to change.
 **Day 1 (Oct 20)**
 - 9:00 - 9:20
   [Welcome and practical information](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
-  (TBA)
+  (Radovan)
 - 9:20 - 12:00
   [Introduction to version control - part 1/2](https://coderefinery.github.io/git-intro/) ("Motivation" to "Undoing")
   (Sabry)
@@ -127,13 +127,13 @@ The schedule is subject to change.
 **Day 3 (Oct 22)**
 - 9:00 - 12:00
   [Collaborative distributed version control](https://coderefinery.github.io/git-collaborative/)
-  (TBA)
+  (Radovan)
 
 
 **Day 4 (Oct 27)**
 - 9:00 - 9:15
   [Mini-intro](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
-  (TBA)
+  (Radovan)
 - 9:00 - 11:00
   [Reproducible research and FAIR data](https://coderefinery.github.io/reproducible-research/)
   (Johan)
@@ -154,13 +154,13 @@ The schedule is subject to change.
 **Day 6 (Oct 29)**
 - 9:00 - 10:30
   [Automated testing](https://coderefinery.github.io/testing/)
-  (TBA)
+  (Radovan)
 - 10:45 - 11:45
   [Modular code development](https://github.com/coderefinery/modular-type-along)
   (Jens)
 - 11:45 - 12:00
   [Concluding remarks and where to go from here](https://github.com/coderefinery/workshop-outro/blob/master/README.md)
-  (TBA)
+  (Radovan)
 
 
 ### Location
