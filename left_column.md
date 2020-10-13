@@ -148,7 +148,7 @@ The schedule is subject to change.
   (TBA)
 - 10:30 - 12:00
   [Jupyter](https://coderefinery.github.io/jupyter/)
-  (TBA)
+  (Jarno)
 
 
 **Day 6 (Oct 29)**
