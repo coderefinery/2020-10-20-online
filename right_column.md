@@ -53,7 +53,9 @@ be a helper.
 - Max R. Eckardt
 - Johan Hidding
 - Bjørn Lindi
+- Jarno Rantaharju
 - Sabry Razick
+- Marijn van Vliet
 - Jens Wehner
 - Thor Wikfeldt
 
