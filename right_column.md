@@ -76,11 +76,14 @@ and would like to be listed here, let us know.
 
 - Niket Agrawal
 - Susan Branchett
+- Simoneta Caño de Las Heras
+- Amir Ebrahimi Fard
 - Johan Hidding
 - Jakob Sauer Jørgensen
 - Maurits Kok
 - Raul Ortiz Merino
 - Ingrid Strandberg
+- Evelien Van Dijk
 - Jens Wehner
 
 Helper introduction:
