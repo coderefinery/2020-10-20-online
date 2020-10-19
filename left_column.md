@@ -121,7 +121,7 @@ The schedule is subject to change.
 **Day 2 (Oct 21)**
 - 9:00 - 12:00
   [Introduction to version control - part 2/2](https://coderefinery.github.io/git-intro/) ("Branching and merging" to "Inspecting history")
-  (Thor)
+  (Sabry and Radovan)
 
 
 **Day 3 (Oct 22)**

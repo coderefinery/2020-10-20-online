@@ -50,9 +50,7 @@ be a helper.
 
 - Radovan Bast
 - Richard Darst
-- Max R. Eckardt
 - Johan Hidding
-- Bjørn Lindi
 - Jarno Rantaharju
 - Sabry Razick
 - Marijn van Vliet
