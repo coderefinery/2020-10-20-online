@@ -62,15 +62,7 @@ be a helper.
 
 ### Expert helpers
 
-- Niket Agrawal
-- Susan Branchett
 - Enrico Glerean
-- Johan Hidding
-- Jakob Sauer Jørgensen
-- Maurits Kok
-- Raul Ortiz Merino
-- Ingrid Strandberg
-- Jens Wehner
 - Samantha Wittke
 
 
@@ -82,7 +74,14 @@ helpers](https://coderefinery.github.io/manuals/helper-intro/)).
 Helpers making this CodeRefinery possible.  If you are a helper
 and would like to be listed here, let us know.
 
-- TBA
+- Niket Agrawal
+- Susan Branchett
+- Johan Hidding
+- Jakob Sauer Jørgensen
+- Maurits Kok
+- Raul Ortiz Merino
+- Ingrid Strandberg
+- Jens Wehner
 
 Helper introduction:
 
