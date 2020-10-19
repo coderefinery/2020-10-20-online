@@ -69,6 +69,8 @@ be a helper.
 - Jakob Sauer Jørgensen
 - Maurits Kok
 - Raul Ortiz Merino
+- Ingrid Strandberg
+- Jens Wehner
 - Samantha Wittke
 
 
