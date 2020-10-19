@@ -62,7 +62,17 @@ be a helper.
 
 ### Expert helpers
 
-- TBA
+- Niket Agrawal
+- Susan Branchett
+- Enrico Glerean
+- Johan Hidding
+- Jakob Sauer Jørgensen
+- Maurits Kok
+- Raul Ortiz Merino
+- Ingrid Strandberg
+- Jens Wehner
+- Samantha Wittke
+
 
 
 ### Helpers
