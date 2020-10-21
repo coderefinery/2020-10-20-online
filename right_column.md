@@ -62,8 +62,8 @@ be a helper.
 ### Expert helpers
 
 - Enrico Glerean
-- Samantha Wittke
 - Juho Lehtonen
+- Samantha Wittke
 
 
 
