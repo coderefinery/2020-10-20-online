@@ -417,8 +417,11 @@ Th
 
 - I don't know if this is already scheduled, but it would be nice to have a few words on how to manage projects with large input/output files. Is is worth adding them to git? In case of binary in/output files, is git a good options?
   - hopefully we get the chance to comment on that. otherwise I would use git-annex or git LFS or https://dvc.org/ where the git repository tracks metadata but the data itself is stored somewhere else.
+      - 🙏
 
 - I'd suggest to be even more clear about when you're switching files/windows and verbalize which one you're in. I'm flipping back and forth between the video, the material, the live Q&A doc, and my own terminal so sometimes when I come back to the video I have no idea where the thing I'm looking at is located.
+
+- Feedback via HackMD was not optimal. When all where typing at the same time in basically the same place I could not even see my own cursor... Also would be good to adjust the width of the shared screen so that its possible to have zoom beside your own terminal locally. Like Radovan did.
 
 
 ---
