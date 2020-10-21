@@ -63,6 +63,7 @@ be a helper.
 
 - Enrico Glerean
 - Samantha Wittke
+- Juho Lehtonen
 
 
 
