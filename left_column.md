@@ -8,8 +8,9 @@ only open for helpers and existing teams.
 
 Because of our Nordic funding, priority is for Nordic participants.
 
-* **First round is full:** you can use the link above to register as a
-  helper or an existing team.  Otherwise, you will be waitlisted.
+* **Day 1 is done!** You can find video archive on [CodeRefinery
+  Twitch](https://www.twitch.tv/coderefinery/videos) for 14 days after
+  each lesson, and HackMD notes at the bottom.
 
 
 ### Zoom?  Live streaming?  Team?
