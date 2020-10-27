@@ -1,3 +1,8 @@
+---
+permalink: /hackmd-day3/
+---
+
+
 # October CodeRefinery HackMD
 
 
