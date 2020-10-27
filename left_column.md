@@ -136,7 +136,7 @@ The schedule is subject to change.
   [Mini-intro](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
   (Radovan)
 - 9:00 - 11:00
-  [Reproducible research and FAIR data](https://coderefinery.github.io/reproducible-research/)
+  [Reproducible research and FAIR data](https://coderefinery.github.io/reproducible-research/), [slides](https://jhidding.github.io/rr-presentation/)
   (Johan)
 - 11:00 - 12:00
   [Social coding and open software](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/social-coding/master/talk.md)
