@@ -1,4 +1,7 @@
-# October CodeRefinery HackMD
+---
+permalink: /hackmd-day4/
+---
+# October CodeRefinery HackMD, day 4
 
 ## Icebreaker, day 4
 
@@ -22,7 +25,7 @@ The "helper" in the breakout rooms: what is a better name for their role?
 - UnforGITables
 - baby bugs
 - deputy assistant educational communication junior executive managers
- 
+
 How are the breakout rooms going in general?:
 - good
 - so far so good, no complain! :+1:
