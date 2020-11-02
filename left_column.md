@@ -157,7 +157,9 @@ The schedule is subject to change.
   [Automated testing](https://coderefinery.github.io/testing/)
   (Radovan)
 - 10:45 - 11:45
-  [Modular code development](https://github.com/coderefinery/modular-type-along)
+  Modular code development
+  ([material used during type-along](https://github.com/coderefinery/modular-type-along)
+  and [slides](https://github.com/coderefinery/modular-code-development/blob/master/README.md))
   (Jens)
 - 11:45 - 12:00
   [Concluding remarks and where to go from here](https://github.com/coderefinery/workshop-outro/blob/master/README.md)
